@@ -1,6 +1,6 @@
 package com.udoy.quizapp.controller;
 
-import com.udoy.quizapp.Question;
+import com.udoy.quizapp.model.Question;
 import com.udoy.quizapp.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

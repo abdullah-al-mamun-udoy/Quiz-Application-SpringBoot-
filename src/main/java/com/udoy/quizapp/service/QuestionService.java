@@ -1,7 +1,7 @@
 package com.udoy.quizapp.service;
 
 
-import com.udoy.quizapp.Question;
+import com.udoy.quizapp.model.Question;
 import com.udoy.quizapp.dao.QuestionDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
